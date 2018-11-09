@@ -39,7 +39,11 @@ Python3.6+
 Installation
 ------------
 `$ python -m venv env`
+
 `$ source env/bin/activate`
+
 `$ pip install -r requirements.txt`
+
 `$ python -m textblob.download_corpora`
+
 `$ python -m spacy download en`
