@@ -29,6 +29,7 @@ Library to process text.
 - Extract URLs
 - Extract Images
 - Summarize Text
+- Cleanup Text
 
 
 Requirements
